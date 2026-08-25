@@ -48,4 +48,4 @@ Homepage: https://glary-utilities-enhancer.softonx.xyz
 
 ## Legal
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.             
+> For personal, lawful use only. Trademarks are the property of their owners.              
